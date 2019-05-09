@@ -1,7 +1,0 @@
-C:\Users\fanck\source\repos\LearnAutoCADNet\bin\CreateBlockTable.dll
-C:\Users\fanck\source\repos\LearnAutoCADNet\bin\CreateBlockTable.pdb
-C:\Users\fanck\source\repos\LearnAutoCADNet\CreateBlockTable\obj\Debug\CreateBlockTable.csprojAssemblyReference.cache
-C:\Users\fanck\source\repos\LearnAutoCADNet\CreateBlockTable\obj\Debug\CreateBlockTable.csproj.CoreCompileInputs.cache
-C:\Users\fanck\source\repos\LearnAutoCADNet\CreateBlockTable\obj\Debug\CreateBlockTable.csproj.CopyComplete
-C:\Users\fanck\source\repos\LearnAutoCADNet\CreateBlockTable\obj\Debug\CreateBlockTable.dll
-C:\Users\fanck\source\repos\LearnAutoCADNet\CreateBlockTable\obj\Debug\CreateBlockTable.pdb

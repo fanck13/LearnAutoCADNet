@@ -1,7 +1,0 @@
-C:\Users\fanck\source\repos\LearnAutoCADNet\bin\Hello.dll
-C:\Users\fanck\source\repos\LearnAutoCADNet\bin\Hello.pdb
-C:\Users\fanck\source\repos\LearnAutoCADNet\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
-C:\Users\fanck\source\repos\LearnAutoCADNet\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
-C:\Users\fanck\source\repos\LearnAutoCADNet\Hello\obj\Debug\Hello.csproj.CopyComplete
-C:\Users\fanck\source\repos\LearnAutoCADNet\Hello\obj\Debug\Hello.dll
-C:\Users\fanck\source\repos\LearnAutoCADNet\Hello\obj\Debug\Hello.pdb
