@@ -33,6 +33,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UserInterface", "UserInterf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChooseEntityCollection", "ChooseEntityCollection\ChooseEntityCollection.csproj", "{CE4A58A6-780C-4B0A-A6F7-D3FE4A24F960}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddPropertySet", "AddPropertySet\AddPropertySet.csproj", "{B509940B-6412-4A88-A019-CA599532A521}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{CE4A58A6-780C-4B0A-A6F7-D3FE4A24F960}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE4A58A6-780C-4B0A-A6F7-D3FE4A24F960}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE4A58A6-780C-4B0A-A6F7-D3FE4A24F960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B509940B-6412-4A88-A019-CA599532A521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B509940B-6412-4A88-A019-CA599532A521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B509940B-6412-4A88-A019-CA599532A521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B509940B-6412-4A88-A019-CA599532A521}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
